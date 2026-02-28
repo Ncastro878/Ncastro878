@@ -10,7 +10,7 @@
 
 ## Projects
 
-- 💰 **[Tipping Point](https://github.com/tipping-point-app)** (2023–2026) — Decentralized crowdfunding platform on Base. Non-custodial USDC payments with gasless transactions via EIP-2612 permits. Built the frontend, backend, and Solidity smart contracts.
+- 💰 **[Tipping Point](https://github.com/tipping-point-app)** (2023) — Decentralized crowdfunding platform on Base. Non-custodial USDC payments with gasless transactions via EIP-2612 permits. Built the frontend, backend, and Solidity smart contracts.
 
 - 🔊 **[claude-voice](https://github.com/Ncastro878/claude-voice)** (2026) — A `/voice` slash command for Claude Code that adds text-to-speech to responses. Hear Claude speak as you work.
 
