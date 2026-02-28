@@ -5,9 +5,12 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
 ![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
 
 ## Projects
+
+- **[Tipping Point](https://github.com/tipping-point-app)** — Decentralized crowdfunding platform on Base. Non-custodial USDC payments with gasless transactions via EIP-2612 permits. Built the frontend, backend, and Solidity smart contracts.
 
 - **[claude-voice](https://github.com/Ncastro878/claude-voice)** — A `/voice` slash command for Claude Code that adds text-to-speech to responses. Hear Claude speak as you work.
 
