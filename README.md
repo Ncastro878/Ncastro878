@@ -12,6 +12,8 @@
 
 - 🎮 **[Escape From AWS](https://github.com/Ncastro878/escape-from-aws-game)** (2026) — Retro Doom-style FPS built with Three.js. Fight zombies, dodge a rampaging Cybertruck, and survive the chaos of an AWS server room gone wrong. Mobile support with touch controls.
 
+- 🏋️ **[Barbell Tracker](https://barbelltracker.net/)** (2026) — Gym workout tracking app to log lifts and monitor progress.
+
 - 💰 **[Tipping Point](https://github.com/tipping-point-app)** (2023) — Decentralized crowdfunding platform on Base. Non-custodial USDC payments with gasless transactions via EIP-2612 permits. Built the frontend, backend, and Solidity smart contracts.
 
 - 🔊 **[claude-voice](https://github.com/Ncastro878/claude-voice)** (2026) — A `/voice` slash command for Claude Code that adds text-to-speech to responses. Hear Claude speak as you work.
